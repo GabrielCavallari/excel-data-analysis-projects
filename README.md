@@ -23,7 +23,7 @@ Cada pasta neste repositório representa um projeto ou exercício específico, c
 
 | ID | Projeto | Foco Principal | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [**Limpeza de Dados - Adventure Works**](./01-Limpeza-Dados-Revendedores) | Limpeza de Texto, Padronização, Funções de String (TRIM, MID, UPPER) | ✅ Concluído |
+| **01** | [**Limpeza de Dados - Adventure Works**](./01-Limpeza-AdventureWorks) | Limpeza de Texto, Padronização, Funções de String (TRIM, MID, UPPER) | ✅ Concluído |
 | **02** | ... | ... | 🚧 Em breve |
 
 *(Esta tabela será atualizada conforme novos exercícios forem adicionados)*
