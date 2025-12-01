@@ -24,7 +24,8 @@ Cada pasta neste repositório representa um projeto ou exercício específico, c
 | ID | Projeto | Foco Principal | Status |
 | :--- | :--- | :--- | :--- |
 | **01** | [**Limpeza de Dados - Adventure Works**](./01-Limpeza-AdventureWorks) | Limpeza de Texto, Padronização, Funções de String (TRIM, MID, UPPER) | ✅ Concluído |
-| **02** | ... | ... | 🚧 Em breve |
+| **02** | [**Gestão de Prazos - Adventure Works**](./02-Datas-Campanhas-AdventureWorks) | Funções de Data (NETWORKDAYS, YEAR), Cálculo de Dias Úteis e Feriados | ✅ Concluído |
+| **03** | ... | ... | 🚧 Em breve |
 
 *(Esta tabela será atualizada conforme novos exercícios forem adicionados)*
 
